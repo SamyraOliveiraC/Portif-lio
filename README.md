@@ -1,4 +1,4 @@
-# Portifólio
+# Um-pouco-sobre-mim
 Este é um projeto de portfólio desenvolvido com HTML, CSS e JavaScript, com o objetivo de apresentar minhas informações profissionais, habilidades e experiências.
 
 Acesse o projeto
